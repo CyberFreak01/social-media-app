@@ -8,5 +8,5 @@
 - **Shareable Links**
   - Generate shareable links for posts, allowing users to easily share content with others.
 
-- **Dynamic Linking**
+- **Dynamic Deep Linking**
   - Seamlessly link web domain URLs to specific pages within the app. If the app is installed, the link opens in the app; otherwise, the website is opened in the browser.
